@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 class Cliente : Persona{
+	// este es un atributo privado
 	private :
 		string nit;
 		
