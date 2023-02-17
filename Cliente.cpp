@@ -3,6 +3,7 @@
 using namespace std;
 class Cliente : Persona{
 	// este es un atributo privado
+	// se agrego otro comentario
 	private :
 		string nit;
 		
